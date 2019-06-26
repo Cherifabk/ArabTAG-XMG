@@ -1,0 +1,17 @@
+make all
+    regénère tous les fichiers xml si nécessaire
+
+make tests
+    fait tourner tous les tests (appelle "make all" si nécessaire)
+
+./corpus.py
+    fait tourner tous les tests
+
+./corpus.py n1 n2 n3
+    fait tourner les tests numéro n1 ne et n3 (commence à 0)
+
+corpus.yml
+    contient la suite de tests.  on peut également vérifier la
+    non surgénération en incluant des phrases agrammaticales:
+    il suffit d'indiquer que le nombre d'analyses attendues est 0
+

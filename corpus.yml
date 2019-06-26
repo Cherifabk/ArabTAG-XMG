@@ -1,0 +1,2674 @@
+%Cherifa Ben Khelil : cherifa.bk@gmail.com
+---
+gloss   : ali=nom
+text    : عليٌ
+axiom   : sn
+expected: 1
+tags    :
+  - nom-propre
+  - ali
+  - 1
+---
+gloss   : à la maison
+text    : في ال منزلِ 
+axiom   : sp
+expected: 1
+tags    :
+  - syntagme
+  - prepositionnel
+  - à-la=maison
+  - 2
+---
+gloss   : le livre jaune
+text    : ال كتابُ ال أصفرُ
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - adjectif
+  - le=livre-le=jaune
+  - 3
+---
+gloss   : livre jaune
+text    : كتابٌ أصفرٌ
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - adjectif
+  - livre-jaune
+  - 4
+---
+gloss   : jaune le livre
+text    : ال أصفرُ ال كتابُ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - le=jaune-le=livre
+  - 5
+---
+gloss   : le livre jaune
+text    : ال كتابُ أصفرٌ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - le=livre-jaune
+  - 6
+---
+gloss   : livre le jaune
+text    : كتابٌ ال أصفرُ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - livre-le=jaune
+  - 7
+---
+gloss   : le livre et le crayon
+text    : ال كتابَ و ال قلمَ    
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - conjonctif
+  - le=livre-et=le=crayon
+  - 8
+---
+gloss   : livre de lecture 
+text    : كتابُ ال قراءةِ    
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - annexion
+  - livre-le=lecture
+  - 9
+---
+gloss   : qui dort 
+text    : اَلّذي ينامُ   
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - qui-dort
+  - 10
+---
+gloss   : celle qui dort 
+text    : اَلّتي تنامُ    
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - celle=qui-dort
+  - 11
+---
+gloss   : celle qui est à la maison 
+text    : اَلّتي في ال منزلِ  
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - prepositionnel
+  - celle=qui=est-à-la=maison
+  - 12
+---
+gloss   : ceux à la maison 
+text    : من في ال منزلِ     
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - prepositionnel
+  - ceux-à-la=maison
+  - 13
+---
+gloss   : celui qui dort 
+text    : من ينامُ 
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - celui=qui-dort
+  - 14
+---
+gloss   : celle qui dort 
+text    : اَلّتي ينامُ   
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - subordonné
+  - celle=qui-dort
+  - 15
+---
+gloss   : dormant à la maison
+text    : نائمًا في ال منزلِ  
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - semi-propositionnel
+  - participe-actif
+  - dormant-à-la=maison
+  - 16
+---
+gloss   : écrit dans le livre    
+text    : مكتوبٌ في ال كتابِ   
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - semi-propositionnel
+  - participe-passif
+  - écrit-dans-le=livre
+  - 17
+---
+gloss   : plus âgé  
+text    : أكبرُ سنًّا  
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - semi-propositionnel
+  - comparatif
+  - plus-âgé
+  - 18
+---
+gloss   : vieux  
+text    : كبيرُ ال سّنِ  
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - semi-propositionnel
+  - qualité-similaire
+  - vieux
+  - 19
+---
+gloss   : le vieil âge  
+text    : كِبَرُ ال سّنِ  
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - semi-propositionnel
+  - nom-verbal
+  - vieil-le=âge
+  - 20
+---
+gloss   : endormi  
+text    : نائمًا   
+axiom   : mushtaq
+expected: 1
+tags    :
+  - syntagme
+  - mode
+  - endormi
+  - 21
+---
+gloss   : la maison entiere 
+text    : ال منزلَ كلَّ هُ   
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - corroboratif
+  - la=maison-entiere
+  - 22
+---
+gloss   : le garçon entier 
+text    : ال ولدُ كلَّ هُ   
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - corroboratif
+  - le=garçon-entier
+  - 23
+---
+gloss   : les livres entiers
+text    : ال كتبُ كلَّ هَا   
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - corroboratif
+  - les=livres-entiere
+  - 24
+---
+gloss   : les garçons tous
+text    : ال أولادُ كلَّ هُمْ  
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - corroboratif
+  - les=garçons-tous
+  - 25
+---
+gloss   : les livres entier 
+text    : ال كتبُ كلَّ هُ   
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - corroboratif
+  - accord
+  - les=livres-entier
+  - 26
+---
+gloss   : les livres entiers
+text    : ال كتبُ كلَّ هُمْ   
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - corroboratif
+  - accord
+  - les=livres-entiers
+  - 27
+---
+gloss   : les garçons tout
+text    : ال أولادُ كلَّ هُ   
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - corroboratif
+  - accord
+  - les=garçons-tout
+  - 28
+---
+gloss   : les garçons toute
+text    : ال أولادُ كلَّ هَا   
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - corroboratif
+  - accord
+  - les=garçons-toute
+  - 29
+---
+gloss   : ahmed mon ami 
+text    : أحمدُ صديقُ يِ    
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - approbatif
+  - ahmed-mon=ami
+  - 30
+---
+gloss   : il fait beau
+text    : ال طقسُ جميلٌ 
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-mot-nomcommun
+  - il-fait-beau
+  - 31
+---
+gloss   : le temps est belles
+text    : ال طقسُ جميلاتٌ
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - theme-mot-nomcommun
+  - le=temps-est=belles
+  - 32
+---
+gloss   : ali est à la maison
+text    : عليٌ في ال منزلِ  
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-mot-nom-propre
+  - propos-syntagme-prepositionnel
+  - ali-est-à-la=maison
+  - 33
+---
+gloss   : elles sont à la maison
+text    : هُنَّ في ال منزلِ 
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-mot-pronom
+  - propos-syntagme-prepositionnel
+  - elles-sont-à-la=maison
+  - 34
+---
+gloss   : c\'est ali
+text    : هذا عليٌ  
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-mot-demonstratif
+  - demonstratif
+  - c\'est-ali
+  - 35
+---
+gloss   : c\'est un livre
+text    : هذا كتابٌ   
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-mot-demonstratif
+  - demonstratif
+  - c\'est-un=livre
+  - 36
+---
+gloss   : c\'est le livre
+text    : هذا ال كتابُ    
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - demonstratif
+  - c\'est-le=livre
+  - 37
+---
+gloss   : ce livre est lourd
+text    : هذا ال كتابُ ثقيلٌ   
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - demonstratif
+  - ce-livre-est=lourd
+  - 38
+---
+gloss   : ceci est un livre jaune
+text    : هذا كتابٌ أصفرٌ     
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - propos-syntagme-adjectival
+  - demonstratif
+  - ceci=est-livre-jaune
+  - 39
+---
+gloss   : le livre jaune est lourd
+text    : ال كتابُ ال أصفرُ ثقيلٌ     
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-syntagme-adjectival
+  - le=livre-le=jaune-est=lourd
+  - 40
+---
+gloss   : le livre de lecture est lourd
+text    : كتابُ ال قراءةِ ثقيلٌ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-syntagme-annexion
+  - le=livre-de=lecture-est=lourd
+  - 41
+---
+gloss   : ali et fatima sont a la maison
+text    : عليٌ و فاطمةٌ في ال منزلِ 
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-syntagme-conjonctif
+  - propos-syntagme-prepositionnel
+  - ali-et-fatima-sont=a=la=maison
+  - 42
+---
+gloss   : ali et fatima et le malade sont a la maison
+text    : عليٌ و فاطمةٌ و ال مريضُ في ال منزلِ  
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-syntagme-conjonctif
+  - propos-syntagme-prepositionnel
+  - ali-et-fatima-et-le=malade-sont=a=la=maison
+  - 43
+---
+gloss   : mon ami ahmed est beau
+text    : أحمدُ صديقُ يِ  جميلٌ   
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-syntagme-approbatif
+  - propos-adjectif
+  - ahmed-mon=ami-est=beau
+  - 44
+---
+gloss   : le livre est jaune et lourd
+text    : ال كتابُ أصفرٌ و ثقيلٌ 
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-nomcommun
+  - propos-syntagme-conjonctif
+  - le=livre-est=jaune-et-lourd
+  - 45
+---
+gloss   : ceci est le livre de lecture
+text    : هذا كتابُ ال قراءةِ 
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-demonstratif
+  - propos-syntagme-annexion
+  - ceci-est=le=livre-de=lecture
+  - 46
+---
+gloss   : ceci est un livre lourd
+text    : هذا كتابٌ ثقيلٌ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-demonstratif
+  - propos-syntagme-adjectival
+  - ceci-est=un=livre-lourd
+  - 47
+---
+gloss   : ceci ceci est un livre lourd
+text    : هذا هذا كتابٌ ثقيلٌ
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - theme-demonstratif
+  - propos-syntagme-adjectival
+  - ceci-ceci-est=un=livre-lourd
+  - 48
+---
+gloss   : ceci le livre ceci est lourd
+text    : هذا ال كتابُ هذا ثقيلٌ
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - theme-demonstratif
+  - propos-syntagme-adjectival
+  - ceci-le=livre-ceci-est=lourd
+  - 49
+---
+gloss   : le temps est devenu beau
+text    : صارَ ال طقسُ جميلاً 
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - verbe existence
+  - le=temps-est=devenu-beau
+  - 50
+---
+gloss   : ali était devant la maison
+text    : كانَ عليٌ أمام ال منزلِ 
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - verbe existence
+  - circonstant
+  - ali-était-devant-la=maison
+  - 51
+---
+gloss   : le temps est devenue beau
+text    : صارتْ ال طقسُ جميلاً 
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe existence
+  - le=temps-est=devenue-beau
+  - 52
+---
+gloss   : le temps est devenu belle
+text    : صارَ ال طقسُ جميلةً 
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe existence
+  - le=temps-est=devenu-belle
+  - 53
+---
+gloss   : le temps est devenu belles
+text    : صارَ ال طقسُ جميلات 
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe existence
+  - le=temps-est=devenu-belles
+  - 54
+---
+gloss   : les enfants dormaient
+text    : كانَ ال أولادُ ينامونَ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - verbe existence
+  - étaient-les=enfants-dorment
+  - 55
+---
+gloss   : les enfants dort
+text    : كانَ ال أولادُ ينامُ
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe existence
+  - était-les=enfants-dort
+  - 56
+---
+gloss   : l enfant ne sera pas endormit
+text    : لنْ يَكونَ ال ولدُ نائمًا
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - verbe existence
+  - subjonctif
+  - ne=sera=pas-l=enfant-endormit
+  - 57
+---
+gloss   : l enfant ne sera pas endormit
+text    : لنْ يَكنْ ال ولدُ نائمًا
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe existence
+  - subjonctif
+  - n=était-pas-le=enfant-endormit
+  - 58
+---
+gloss   : l enfant ne seront pas endormit
+text    : لنْ يَكونُوا ال ولدُ نائمًا
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe existence
+  - subjonctif
+  - ne=seront=pas-le=enfant-endormit
+  - 59
+---
+gloss   : sois endormis
+text    : كنْ نائمًا
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - verbe existence
+  - imperatif
+  - sois-endormis
+  - 60
+---
+gloss   : le temps est beau
+text    : إنَّ ال طقسَ جميلٌ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - verbe certitude
+  - le=temps-est-beau
+  - 61
+---
+gloss   : peut être que ali est devant la maison
+text    : لعلَّ علياً أمام ال منزلِ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - verbe certitude
+  - circonstant
+  - peut=être=que-ali-est=devant-la=maison
+  - 62
+---
+gloss   : le temps est belle
+text    : إنَّ ال طقسَ جميلةٌ
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe certitude
+  - le=temps-est-belle
+  - 63
+---
+gloss   : le temps est belles
+text    : إنَّ ال طقسَ جميلاتٌ
+axiom   : pn
+expected: 0
+tags    :
+  - nominale
+  - verbe certitude
+  - le=temps-est-belles
+  - 64
+---
+gloss   : il fait très beau
+text    : ال طقسُ جميلٌ جدًّا  
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - Adverbe
+  - le=temps-très-beau
+  - 65
+---
+gloss   : il fait très très beau
+text    : ال طقسُ جميلٌ جدًّا جدًّا  
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - Adverbe
+  - le=temps-très-très-beau
+  - 66
+---
+gloss   : ali est devant la maison
+text    : عليٌ أمام ال منزلِ  
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - propos-compement-circonstant
+  - ali-est-devant-la=maison
+  - 67
+---
+gloss   : ali dort
+text    : عليٌ ينامُ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - ali-dort
+  - 68
+---
+gloss   : il dort
+text    : ينامُ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-ellipse
+  - il=dort
+  - 69
+---
+gloss   : dort ali beaucoup
+text    : ينامُ عليٌ كثيرًا
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - adverbe
+  - dort-ali-beaucoup
+  - 70
+---
+gloss   : dort beaucoup ali
+text    : ينامُ كثيرًا عليٌ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - adverbe
+  - dort-beaucoup-ali
+  - 71
+---
+gloss   : beaucoup dort ali
+text    : كثيرًا ينامُ عليٌ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - adverbe
+  - beaucoup-dort-ali
+  - 72
+---
+gloss   : ali dort beaucoup
+text    : عليٌ ينامُ كثيرًا
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - adverbe
+  - ali-dort-beaucoup
+  - 73
+---
+gloss   : ali beaucoup dort
+text    : عليٌ كثيرًا ينامُ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - adverbe
+  - ali-beaucoup-dort
+  - 74
+---
+gloss   : beaucoup ali dort
+text    : كثيرًا عليٌ ينامُ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - adverbe
+  - beaucoup-ali-dort
+  - 75
+---
+gloss   : les garçons dorment 
+text    : ينامُ ال أولادُ    
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-commun
+  - pas-accord
+  - les=garçons-dort
+  - 76
+---
+gloss   : les garçons dorment 
+text    : ال أولادُ ينامونَ     
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-commun
+  - accord
+  - les=garçons-dorment
+  - 77
+---
+gloss   : ali dort a la maison
+text    : ينامُ عليٌ  في ال منزلِ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - circonstanciel
+  - ali-dort-a-la=maison
+  - 78
+---
+gloss   : dorment les garçons 
+text    :  ال أولادُ ينامُ    
+axiom   : sv
+expected: 0
+tags    :
+  - intransitif
+  - sujet-nom-commun
+  - pas-accord
+  - dort-les=garçons
+  - 79
+---
+gloss   : dorment les garçons  
+text    : ينامونَ ال أولادُ      
+axiom   : sv
+expected: 0
+tags    :
+  - intransitif
+  - sujet-nom-commun
+  - accord
+  - dorment-les=garçons
+  - 80
+---
+gloss   : a ete endormi
+text    : نِيمَ
+axiom   : sv
+expected: 0
+tags:
+  - passif
+  - intransitif
+  - a=ete=endormi
+  - 81
+---
+gloss   : ali ne dormira pas
+text    : لنْ ينامَ عليٌ 
+axiom   : sv
+expected: 1
+tags:
+  - intransitif
+  - subjonctif
+  - sujet-nom-propre
+  - ali-ne-dormira-pas
+  - 82
+---
+gloss   : ali ne dormira pas
+text    : لنْ ينمْ عليٌ 
+axiom   : sv
+expected: 0
+tags:
+  - intransitif
+  - subjonctif
+  - sujet-nom-propre
+  - ali-ne-dormira-pas
+  - 83
+---
+gloss   : ali n a pas dormi
+text    : لمْ ينمْ عليٌ
+axiom   : sv
+expected: 1
+tags:
+  - intransitif
+  - apocope
+  - sujet-nom-propre
+  - ali-n=a=pas-dormi
+  - 84
+---
+gloss   : dormira ali
+text    : سوف ينامُ عليٌ
+axiom   : sv
+expected: 1
+tags:
+  - intransitif
+  - futur
+  - sujet-nom-propre
+  - dormira-ali
+  - 85
+---
+gloss   : ali ne dormira pas
+text    : سوف لنْ ينامَ عليٌ
+axiom   : sv
+expected: 0
+tags:
+  - intransitif
+  - futur
+  - subjonctif
+  - sujet-nom-propre
+  - ali-ne-dormira-pas
+  - 86
+---
+gloss   : ali dormira 
+text    : سوف ينمْ عليٌ
+axiom   : sv
+expected: 0
+tags:
+  - intransitif
+  - futur
+  - sujet-nom-propre
+  - ali-dormira
+  - 87
+---
+gloss   : ali aime fatima
+text    : عليٌ يحبُ فاطمةً
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-nom-propre
+  - ali=nom-aime-fatima=acc
+  - 88
+---
+gloss   : aime ali fatima
+text    : يحبُ عليٌ فاطمةً 
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-nom-propre
+  - aime-ali-fatima
+  - 89
+---
+gloss   : aime fatima ali
+text    : يحبُ فاطمةً عليٌ 
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-nom-propre
+  - aime-fatima-ali
+  - 90
+---
+gloss   : ali fatima l aime
+text    : عليٌ فاطمةً يحبُ هَا
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-nom-propre
+  - enclitique-accord
+  - ali-fatima-l=aime
+  - 91
+---
+gloss   : ali l aime
+text    : عليٌ يحبُ هَا
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-clitique
+  - ali-l=aime
+  - 92
+---
+gloss   : il aime fatima
+text    : يحبُ فاطمةً
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-ellipse
+  - objet-nom-propre
+  - il=aime-fatima
+  - 93
+---
+gloss   : il donne le livre
+text    : أعطَى ال كتابَ
+axiom   : sv
+expected: 0
+tags    :
+  - transitif
+  - sujet-ellipse
+  - objet-nom-commun
+  - il=donne-le=livre
+  - 94
+---
+gloss   : le livre s est ecrit
+text    : كُتبَ ال كتابُ
+axiom   : sv
+expected: 1
+tags:
+  - passif
+  - transitif
+  - sujet-adjoint-nom-commun
+  - s=est=ecrit-le=livre
+  - 95
+---
+gloss   : le livre s est ecrit
+text    : كُتبَ ال كتابَ 
+axiom   : sv
+expected: 0
+tags:
+  - passif
+  - transitif
+  - sujet-adjoint-nom-commun
+  - s=est=ecrit-le=livre
+  - 96
+---
+gloss   : s est endormi a la maison
+text    : نِيمَ في ال منزلِ 
+axiom   : sv
+expected: 1
+tags:
+  - passif
+  - transitif
+  - sujet-adjoint-complement-circonstanciel
+  - circonstanciel
+  - s=est=endormi-a-la=maison
+  - 97
+---
+gloss   : ali est alle a la maison
+text    : ذهبَ عليٌ  إلى ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - sujet-nom-propre
+  - objet-syntagme-prepositionnel
+  - objet indirect
+  - est=alle-ali-a-la=maison
+  - 98
+---
+gloss   : pourquoi
+text    : لماذا  
+axiom   : sv
+expected: 1
+tags    :
+  - interrogative
+  - pourquoi
+  - 99
+---
+gloss   : est ce que ali est à la maison
+text    : هل عليٌ في ال منزلِ 
+axiom   : pn
+expected: 1
+tags    :
+  - interrogative
+  - nominale
+  - est=ce=que-ali-est-à-la=maison
+  - 100
+---
+gloss   : est ce qu\'il fait beau
+text    : هل ال طقسُ جميلٌ 
+axiom   : pn
+expected: 1
+tags    :
+  - interrogative
+  - est=ce=qu=\'il=fait-beau
+  - 101
+---
+gloss   : est ce que ce livre est lourd
+text    : هل هذا ال كتابُ ثقيلٌ   
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - interrogative
+  - demonstratif
+  - est=ce=que-ce-livre-est=lourd
+  - 102
+---
+gloss   : est ce que ceci est un livre
+text    : هل هذا كتابٌ     
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - interrogative
+  - demonstratif
+  - est=ce=que-ceci=est-un=livre
+  - 103
+---
+gloss   : est ce que ce livre
+text    : هل هذا ال كتابُ    
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - interrogative
+  - demonstratif
+  - est=ce=que-ce-livre
+  - 104
+---
+gloss   : est ce que ali dort
+text    : هل ينامُ عليٌ 
+axiom   : sv
+expected: 1
+tags    :
+  - interrogative
+  - est-ce-que-ali-dort
+  - 105
+---
+gloss   : quand est ce que ali s\'est endormi
+text    : متى نامَ عليٌ 
+axiom   : sv
+expected: 1
+tags    :
+  - interrogative
+  - quand=est=ce=que-ali-s=\'=est=endormi
+  - 106
+---
+gloss   : jusqu\'à quand ali s\'est endormi
+text    : إلى متى نامَ عليٌ   
+axiom   : sv
+expected: 1
+tags    :
+  - interrogative
+  - jusqu\'à-quand-ali-s=\'=est=endormi
+  - 107
+---
+gloss   : livres jaune
+text    : كتبٌ صفراءٌ
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - adjectif
+  - livres-jaune
+  - 108
+---
+gloss   : livres jaune
+text    : كتبٌ أصفرُ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - livres-jaune
+  - 109
+---
+gloss   : garcon beau
+text    : ولدٌ جميلٌ
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - adjectif
+  - garcon-beau
+  - 110
+---
+gloss   : garcon belles
+text    : ولدٌ جميلاتٌ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - garcon-belles
+  - 111
+---
+gloss   : garcons beaux
+text    : أولادٌ  جُملاءٌ
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - adjectif
+  - garcons-beaux
+  - 112
+---
+gloss   : ali le beau
+text    : عليٌ ال جميلٌ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - nom-propre
+  - ali-le=beau
+  - 113
+---
+gloss   : ali beau
+text    : عليٌ جميلٌ
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - adjectif
+  - nom-propre
+  - ali-beau
+  - 114
+---
+gloss   : ali les belles
+text    : عليٌ ال جميلاتٌ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - nom-propre
+  - ali-les=belles
+  - 115
+---
+gloss   : ali belle
+text    : عليٌ جميلةٌ
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - adjectif
+  - nom-propre
+  - ali-belle
+  - 116
+---
+gloss   : le garcon est beau 
+text    : ال ولدُ جميلٌ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-nom-commun
+  - propos-adjectif
+  - accord
+  - le=garcon-est=beau
+  - 117
+---
+gloss   : les garcons sont beaux  
+text    : ال أولادُ جُملاءٌ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-nom-commun
+  - propos-adjectif
+  - accord
+  - les=garcons-sont=beaux
+  - 118
+---
+gloss   : les livres sont lourde  
+text    : ال كتبُ  ثقيلةٌ
+axiom   : pn
+expected: 1
+tags    :
+  - nominale
+  - theme-nom-commun
+  - propos-adjectif
+  - accord
+  - les=livres-sont=lourde
+  - 119
+---
+gloss   : ali fatima l aime
+text    : عليٌ فاطمةً يحبُ هُ
+axiom   : sv
+expected: 0
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-nom-propre
+  - enclitique-accord
+  - ali-fatima-l=aime
+  - 120
+---
+gloss   : a donne ali au malade le medicament
+text    : أعطَى عليٌ ال مريضَ ال دواءَ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - a=donne-ali-au=malade-le=medicament
+  - 121
+---
+gloss   : ali a donne au malade le medicament
+text    : عليٌ أعطَى ال مريضَ ال دواءَ 
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - ali-a=donne-au=malade-le=medicament 
+  - 122
+---
+gloss   : a donne au malade ali le medicament
+text    : أعطَى ال مريضَ عليٌ ال دواءَ
+axiom   : sv
+expected: 1 
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - a=donne-au=malade-ali-le=medicament 
+  - 123
+---
+gloss   : a donne au malade le medicament ali
+text    : أعطَى ال مريضَ ال دواءَ عليٌ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - a=donne-au=malade-le=medicament-ali 
+  - 124
+---
+gloss   : a donne au malade le medicament
+text    : أعطَى ال مريضَ ال دواءَ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - a=donne-ali-au=malade-le=medicament 
+  - 125
+---
+gloss   : ali au malade lui a donne le medicament
+text    : عليٌ ال مريضَ أعطَى هُ ال دواءَ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-nom-commun
+  - ali-au=malade-lui=a=donne-le=medicament
+  - 126
+---
+gloss   : a fatima lui a donne ali le medicament
+text    : فاطمةً أعطَى هُ عليٌ ال دواءَ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-nom-propre
+  - a=fatima-lui=a=donne-ali-le=medicament
+  - 127
+---
+gloss   : a fatima lui a donne ali le medicament
+text    : فاطمةً أعطَى هَا عليٌ ال دواءَ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-propre
+  - enclitique-accord
+  - objet2-nom-commun
+  - a=fatima-lui=a=donne-ali-le=medicament
+  - 128
+---
+gloss   : ali le medicament lui a donne 
+text    : عليٌ ال دواءَ أعطَى هَا
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-clitique
+  - ali-le=medicament-lui=a=donne
+  - 129
+---
+gloss   : lui a donne le medicament ali 
+text    : أعطَى هَا ال دواءَ عليٌ 
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-clitique
+  - lui=a=donne-le=medicament-ali
+  - 130 
+---
+gloss   :  a donne le medicament au malade
+text    :  أعطَى ال دواءَ ال مريضَ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - a=donne-ali-le=medicament-au=malade
+  - 131
+---
+gloss   : au malade a donne ali le medicament 
+text    : ال مريضَ أعطَى عليٌ ال دواءَ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - au=malade-a=donne-ali-le=medicament
+  - 132
+---
+gloss   : au malade a donne le medicament 
+text    : ال مريضَ أعطَى ال دواءَ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-nom-commun
+  - au=malade-a=donne-le=medicament
+  - 133
+---
+gloss   : le malade lui a donne ali le medicament 
+text    : ال مريضَ أعطَى هُ عليٌ ال دواءَ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-nom-commun
+  - au=malade-lui=a=donne-ali-le=medicament
+  - 134
+---
+gloss   : le malade lui a donne le medicament 
+text    : ال مريضَ أعطَى هُ ال دواءَ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - deux-objets-directs
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-nom-commun
+  - au=malade-lui=a=donne-le=medicament
+  - 135
+---
+gloss   : ali lui a donne le medicament 
+text    : عليٌ أعطَى هُ ال دواءَ 
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-clitique
+  - ali-lui=a=donne-le=medicament
+  - 136
+---
+gloss   : lui a donne le medicament 
+text    : أعطَى هُ ال دواءَ 
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-clitique
+  - lui=a=donne-le=medicament
+  - 137
+---
+gloss   : a donne ali le medicament
+text    : أعطَى عليٌ ال دواءَ 
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-manquant
+  - a=donne-ali-le=medicament
+  - 138
+---
+gloss   : ali a donne le medicament
+text    : عليٌ أعطَى ال دواءَ 
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-manquant
+  - ali-a=donne-le=medicament
+  - 139
+---
+gloss   : ali a donne le medicament
+text    : أعطَى ال دواءَ 
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - deux-objets-directs
+  - objet1-nom-commun
+  - objet2-manquant
+  - ali-a=donne-le=medicament
+  - 140
+---
+gloss   : a ete donne le medicament au malade
+text    : أُعطيَ ال مريضُ ال دواءَ
+axiom   : sv
+expected: 1
+tags:
+  - passif
+  - ditransitif
+  - sujet-adjoint-nom-commun
+  - objet-nom-commun
+  - a=ete=donne-au=malade-le=medicament
+  - 141
+---
+gloss   : a ete donne au malade le medicament 
+text    : أُعطيَ ال دواءَ ال مريضُ 
+axiom   : sv
+expected: 1
+tags:
+  - passif
+  - ditransitif
+  - sujet-adjoint-nom-commun
+  - objet-nom-commun
+  - a=ete=donne-le=medicament -au=malade 
+  - 142
+---
+gloss   : est alle ali de la maison
+text    : ذهبَ عليٌ  مِن ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - sujet-nom-propre
+  - objet-syntagme-prepositionnel
+  - semantiquement-correcte
+  - est=alle-ali-de-la=maison
+  - 143
+---
+gloss   : est alle ali avec la maison
+text    : ذهبَ عليٌ  ب ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - sujet-nom-propre
+  - objet-syntagme-prepositionnel
+  - semantiquement-incorrecte
+  - est=alle-ali-avec=la=maison
+  - 144
+---
+gloss   : est alle ali avec la maison
+text    : ذهبَ عليٌ  مع ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - sujet-nom-propre
+  - objet-syntagme-prepositionnel
+  - semantiquement-incorrecte
+  - est=alle-ali-avec-la=maison
+  - 145
+---
+gloss   : aime le livre fatima
+text    : يحبُ ال كتابُ فاطمةً
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-commun
+  - objet-nom-propre
+  - semantiquement-incorrecte
+  - aime-le=livre-fatima
+  - 146
+---
+gloss   : aime ali le livre
+text    : يحبُ عليٌ ال كتابَ
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-nom-commun
+  - semantiquement-incorrecte
+  - aime-ali-le=livre
+  - 147
+---
+gloss   : dort le livre
+text    : ينامُ ال كتابُ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-commun
+  - semantiquement-incorrecte
+  - dort-le=livre
+  - 148
+---
+gloss   : le bel enfant dort
+text    : ينامُ ال ولدُ ال جميلُ    
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-syntagme-adjectival
+  - dort-le=enfant-le=beau
+  - 149
+---
+gloss   : le bel enfant dort
+text    : ينامُ ال ولدُ جميلُ    
+axiom   : sv
+expected: 0
+tags    :
+  - intransitif
+  - sujet-syntagme-adjectival
+  - dort-le=enfant-beau
+  - 150
+---
+gloss   : le chien d ali a aboye
+text    : نبحَ كلبُ عليٍ 
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-syntagme-annexion
+  - a=aboye-chien-de=ali
+  - 151
+---
+gloss   : ali et les garçons dorment 
+text    : ينامُ عليٌ و ال أولادُ     
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-syntagme-conjonctif
+  - accord
+  - dort-ali-et-les=garçons
+  - 152
+---
+gloss   : ali et les garçons dorment 
+text    : ينامونَ عليٌ و ال أولادُ      
+axiom   : sv
+expected: 0
+tags    :
+  - intransitif
+  - sujet-syntagme-conjonctif
+  - accord
+  - dorement-ali-et-les=garçons
+  - 153
+---
+gloss   : ali et les garçons dorment 
+text    : عليٌ و ال أولادُ ينامونَ     
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-syntagme-conjonctif
+  - accord
+  - ali-et-les=garçons-dorment
+  - 154
+---
+gloss   : ahmed mon ami dort 
+text    : ينامُ أحمدُ صديقُ يِ    
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-syntagme-approbatif
+  - dort-ahmed-mon=ami
+  - 155
+---
+gloss   : fatima aime mon ami ali
+text    : فاطمةٌ تحبُ علياً صديق يِ 
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-propre
+  - objet-syntagme-approbatif
+  - fatima-aime-ali-mon=ami
+  - 156
+---
+gloss   : le livre ou le crayon 
+text    : ال كتابَ أو ال قلمَ 
+axiom   : sn
+expected: 1
+tags:
+  - syntagme
+  - conjonctif
+  - choix
+  - le=livre-ou=le=crayon
+  - 157
+---
+gloss   : cet ami
+text    : صديق يِ هذا   
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme-nominal
+  - nom-commun
+  - enclitique
+  - demonstratif
+  - mon=ami-ceci
+  - 158
+---
+gloss   : dort celui a la maison
+text    : ينامُ  من في ال منزلِ 
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-syntagme-subordonné
+  - dort-celui-a-la=maison
+  - 159
+---
+gloss   : pour dormir
+text    : لِ ينامَ 
+axiom   : sp
+expected: 1
+tags:
+  - syntagme-prepositionnel
+  - subjonctif
+  - verbe
+  - pour=dormir
+  - 160
+---
+gloss   : celui qui Ahmed dort
+text    : اَلّذي أحمدُ ينامُ 
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - subordonné
+  - celui=qui-Ahmed-dort
+  - 161
+---
+gloss   : celle qu'ali aime
+text    : اَلّتي يحبُ هَا عليٌ
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - objet-clitique
+  - celle-qui=l=aime-ali
+  - 162
+---
+gloss   : Celui ali était devant la maison
+text    : اَلّذي كانَ عليٌ أمام ال منزلِ 
+axiom   : sn
+expected: 0
+tags    :
+  - syntagme
+  - subordonné
+  - nominale
+  - verbe existence
+  - circonstant
+  - celui-était-ali-devant-la=maison
+  - 163
+---
+gloss   : Celui qui était devant la maison
+text    :  اَلّذي كانَ أمام ال منزلِ 
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - nominale
+  - verbe existence
+  - circonstant
+  - celui=qui-était-devant-la=maison
+  - 164
+---
+gloss   : ali celui qui était devant la maison
+text    :  عليٌ اَلّذي كانَ أمام ال منزلِ 
+axiom   : sn
+expected: 1
+tags    :
+  - syntagme
+  - subordonné
+  - nominale
+  - verbe existence
+  - circonstant
+  - ali-celui=qui-était-devant-la=maison
+  - 165
+---
+gloss   : le garçon est rentré hereux ravi
+text    :  عادَ ال ولدُ  فرحًا مسرورًا
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - syntagme-mode
+  - est=rentré-le=garçon-heureux-ravi
+  - 166
+---
+gloss   : le garçon est rentré en montant son vélo
+text    :   عادَ ال ولدُ راكبًا درّاجةَ هُ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-propre
+  - participe-actif
+  - syntagme-semi-propositionnel
+  - est=rentré-le=garçon-montant-son=vélo
+  - 167
+---
+gloss   : le garçon dot à la maison d ali
+text    : نامَ ال ولدُ في منزلِ عليٍ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-nom-commun
+  - complement-circonstontiel-lieu-syntagme-annexion
+  - dot-le=garcon=a-maison-ali
+  - 168
+---
+gloss   : vas ali a la maison
+text    : اِذهَبْ عليٌ إلى ال منزلِ
+axiom   : sv
+expected: 0
+tags:
+  - transitif
+  - impératif
+  - objet-syntagme-prepositionnel
+  - objet indirect
+  - vas-ali-a-la=maison
+  - 169
+---
+gloss   : vas a la maison
+text    : اِذهَبْ  إلى ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - impératif
+  - objet-syntagme-prepositionnel
+  - objet indirect
+  - vas-a-la=maison
+  - 170
+---
+gloss   : ne vas pas ali a la maison
+text    : لا تذهَبْ عليٌ  إلى ال منزلِ
+axiom   : sv
+expected: 0
+tags:
+  - transitif
+  - impératif
+  - negation
+  - objet-syntagme-prepositionnel
+  - objet indirect
+  - ne-vas-pas-ali-a-la=maison
+  - 171
+---
+gloss   : ne vas pas a la maison
+text    : لا تذهَبْ  إلى ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - impératif
+  - negation
+  - objet-syntagme-prepositionnel
+  - objet indirect
+  - ne-vas-pas-a-la=maison
+  - 172
+---
+gloss   : ali est rentre a la maison en souriant 
+text    : عادَ عليٌ إلى ال منزلِ و هو يَبتسِمُ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - sujet-nom-propre
+  - complement-syntagme-propositionnel
+  - est=rentre-ali-a-la=maison-et-il=est-souriant
+  - 173
+---
+gloss   : ali est rentre a la maison en souriant 
+text    : عادَ عليٌ إلى ال منزلِ و هو تَبتسِمُ
+axiom   : sv
+expected: 0
+tags:
+  - transitif
+  - sujet-nom-propre
+  - complement-syntagme-propositionnel
+  - est=rentre-ali-a-la=maison-et-il=est-souriante
+  - 174
+---
+gloss   : le garçon a mangé la nourriture et son ami
+text    : أكلَ ال ولدُ ال طعامَ و صديق هُ
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - sujet-nom-commun
+  - objet-nom-commun
+  - syntagme-conjonctif
+  - ambiguite
+  - a=mangé-le=garçon-la=nourriture-et-son=ami
+  - 175
+---
+gloss   : le chien aboie sur le chat du petit garçon
+text    : نبحَ ال كلبُ عَلَى هِرِّ ال ولدِ ال صغيرِ
+axiom   : sv
+expected: 2
+tags    :
+  - transitif
+  - sujet-nom-commun
+  - objet-syntagme-prepositionnel
+  - ambiguite
+  - aboie-le=chien-sur-chat-le=garçon-le=petit
+  - 176
+---
+gloss   : est ce que ali a donné le livre à Fatima
+text    : هل أعطَى عليٌ ال كتابَ إلى فاطمةٍ   
+axiom   : sv
+expected: 1
+tags    :
+  - interrogative
+  - ditransitif
+  - est-ce-que-ali-a-donné-le-livre-à-Fatima
+  - 177
+---
+gloss   : pourquoi ali a donné le livre à Fatima
+text    : لماذا أعطَى عليٌ ال كتابَ إلى فاطمةٍ   
+axiom   : sv
+expected: 1
+tags    :
+  - interrogative
+  - ditransitif
+  - pourquoi-ali-a-donné-le-livre-à-Fatima
+  - 178
+---
+gloss   : donne ali le livre a fatima
+text    : أعطَى عليٌ ال كتابَ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=livre-a-fatima
+  - 179
+---
+gloss   : donne ali le livre fatima a
+text    : أعطَى عليٌ ال كتابَ فاطمةً إلى
+axiom   : sv
+expected: 0
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=livre-fatima-a
+  - 180
+---
+gloss   : il donne le livre a fatima
+text    : أعطَى ال كتابَ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - il=donne-le=livre-a-fatima
+  - 181
+---
+gloss   : il donne a fatima le livre
+text    : أعطَى إلى فاطمةٍ ال كتابَ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - il=donne-a-fatima-le=livre
+  - 182
+---
+gloss   : donne ali le livre a elle
+text    : أعطَى عليٌ ال كتابَ إلى هَا
+axiom   : sv
+expected: 1
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel-enclitique
+  - donne-ali-le=livre-a=elle
+  - 183
+---
+gloss   : ali livre le donne a fatima
+text    : عليٌ ال كتابَ أعطَى هُ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - ali-livre-le=donne-a-fatima
+  - 184
+---
+gloss   : ali le donne a fatima
+text    : عليٌ أعطَى هُ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-clitique
+  - objet2-syntagme-prepositionnel
+  - ali-le=donne-a-fatima
+  - 185
+---
+gloss   : ali le livre a donne a fatima
+text    : عليٌ ال كتابَ أعطَى إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - ali-le=livre-a=donne-a=fatima
+  - 186
+---
+gloss   : le livre a donne a fatima
+text    : ال كتابَ أعطَى إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - le=livre-a=donne-a=fatima
+  - 187
+---
+gloss   : le livre a donne ali a fatima
+text    : ال كتابَ أعطَى عليٌ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - le=livre-a=donne-ali-a=fatima
+  - 188
+---
+gloss   : le livre lui a donne a fatima
+text    : ال كتابَ أعطَى هُ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - le=livre-lui=a=donne-a=fatima
+  - 189
+---
+gloss   : le livre lui a donne ali a fatima
+text    : ال كتابَ أعطَى هُ عليٌ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - le=livre-lui=a=donne-ali-a=fatima
+  - 190
+---
+gloss   : a fatima le livre lui a donne ali
+text    : إلى فاطمةٍ ال كتابَ أعطَى هُ عليٌ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - a=fatima-le=livre-lui=a=donne-ali
+  - 191
+---
+gloss   : a fatima le livre lui a donne 
+text    : إلى فاطمةٍ ال كتابَ أعطَى هُ 
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - a=fatima-le=livre-lui=a=donne
+  - 192
+---
+gloss   : le livre a fatima lui a donne ali
+text    : ال كتابَ إلى فاطمةٍ أعطَى هُ عليٌ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - le=livre-a=fatima-lui=a=donne-ali
+  - 193
+---
+gloss   : le livre a fatima ali lui a donne 
+text    : ال كتابَ إلى فاطمةٍ عليٌ أعطَى هُ 
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - le=livre-a=fatima-ali-lui=a=donne
+  - 194
+---
+gloss   : a fatima lui a donne ali
+text    :  إلى فاطمةٍ أعطَى هُ عليٌ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-clitique
+  - objet2-syntagme-prepositionnel
+  - a=fatima-lui=a=donne-ali
+  - 195
+---
+gloss   : lui a donne ali a fatima 
+text    : أعطَى هُ عليٌ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-clitique
+  - objet2-syntagme-prepositionnel
+  - lui=a=donne-ali-a=fatima
+  - 196
+---
+gloss   : ali lui a donne a fatima 
+text    : عليٌ أعطَى هُ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-clitique
+  - objet2-syntagme-prepositionnel
+  - ali-lui=a=donne-a=fatima
+  - 197
+---
+gloss   : lui a donne a fatima 
+text    : أعطَى هُ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-ellipse
+  - un-objet-indirect
+  - objet1-clitique
+  - objet2-syntagme-prepositionnel
+  - lui=a=donne-a=fatima
+  - 198
+---
+gloss   : ali livre le donne a fatima
+text    : عليٌ ال كتابَ أعطَى هَا إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags    :
+  - ditransitif
+  - sujet-ellipse
+  - un-objet-indirect
+  - objet1-nom-commun
+  - enclitique-accord
+  - objet2-syntagme-prepositionnel
+  - ali-livre-le=donne-a-fatima
+  - 199
+---
+gloss   : donne ali le livre jaune a fatima
+text    : أعطَى عليٌ ال كتابَ ال أصفرَ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-adjectival
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=livre-le=jaune-a-fatima
+  - 200
+---
+gloss   : donne ali le jaune livre a fatima
+text    : أعطَى عليٌ ال أصفرَ ال كتابَ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-adjectival
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=jaune-le=livre-a-fatima
+  - 201
+---
+gloss   : donne ali le livre jaune a fatima
+text    : أعطَى عليٌ ال كتابَ ال صفراءَ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-adjectival
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=livre-le=jaune-a-fatima
+  - 202
+---
+gloss   : donne ali ce livre a fatima
+text    : أعطَى عليٌ هذا ال كتابَ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-demonstratif
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=livre-a-fatima
+  - 203
+---
+gloss   : donne ali ce livre jaune a fatima
+text    : أعطَى عليٌ هذا ال كتابَ ال أصفرَ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-adjectival-demonstratif
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=livre-le=jaune-a-fatima
+  - 204
+---
+gloss   : donne ali cette livre jaune a fatima
+text    : أعطَى عليٌ هذه ال كتابَ ال أصفرَ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-adjectival-demonstratif
+  - objet2-syntagme-prepositionnel
+  - donne-ali-la=livre-le=jaune-a-fatima
+  - 205
+---
+gloss   : donne ali le livre et le crayon à fatima
+text    : أعطَى عليٌ ال كتابَ و ال قلمَ إلى فاطمةٍ    
+axiom   : sv
+expected: 1
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-conjonctif
+  - objet2-syntagme-prepositionnel
+  - donne-ali-le=livre-et-le=crayon-à-fatima
+  - 206
+---
+gloss   : donne ali le livre de lecture à fatima
+text    : أعطَى عليٌ كتابَ ال قراءةِ  إلى فاطمةٍ   
+axiom   : sv
+expected: 1
+tags    :
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-syntagme-annexion
+  - objet2-syntagme-prepositionnel
+  - donne-ali-livre-le=lecture-à-fatima
+  - 207
+---
+gloss   : le livre a ete donne a Fatima
+text    : أُعطيَ ال كتابُ إلى فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - passif
+  - ditransitif
+  - sujet-adjoint-nom-commun
+  - objet-syntagme-prepositionnel
+  - a=ete=donne-le=livre-a-Fatima
+  - 208
+---
+gloss   : le livre a ete donne a Fatima
+text    : إلى فاطمةٍ أُعطيَ ال كتابُ 
+axiom   : sv
+expected: 1
+tags:
+  - passif
+  - ditransitif
+  - sujet-adjoint-nom-commun
+  - objet-syntagme-prepositionnel
+  - a-Fatima-le=livre-a=ete=donné
+  - 209
+---
+gloss   : le livre a ete donne a Fatima
+text    : ال كتابُ أُعطيَ  إلى فاطمةٍ 
+axiom   : sv
+expected: 1
+tags:
+  - passif
+  - ditransitif
+  - sujet-adjoint-nom-commun
+  - objet-syntagme-prepositionnel
+  - le=livre-a=ete=donne-a-Fatima
+  - 210
+---
+gloss   : le livre a ete donne a Fatima
+text    : أُعطيَ ال كتابَ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags:
+  - passif
+  - ditransitif
+  - sujet-adjoint-nom-commun
+  - objet-syntagme-prepositionnel
+  - a=ete=donne-le=livre-a-Fatima
+  - 211
+---
+gloss   : le livre a ete donne a Fatima
+text    : أُعطيَ كتابِ إلى فاطمةٍ 
+axiom   : sv
+expected: 0
+tags:
+  - passif
+  - ditransitif
+  - sujet-adjoint-nom-commun
+  - objet-syntagme-prepositionnel
+  - a=ete=donne-le=livre-a-Fatima
+  - 212
+---
+gloss   : donnera ali le livre a fatima
+text    : سوف يعطِي عليٌ ال كتابَ إلى فاطمةٍ 
+axiom   : sv
+expected: 1
+tags:
+  - futur
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - donnera-ali-le=livre-a-fatima
+  - 213
+---
+gloss   : donnera ali le livre a fatima
+text    : سَ يعطِي عليٌ ال كتابَ إلى فاطمةٍ 
+axiom   : sv
+expected: 1
+tags:
+  - futur
+  - ditransitif
+  - sujet-nom-propre
+  - un-objet-indirect
+  - objet1-nom-commun
+  - objet2-syntagme-prepositionnel
+  - donnera-ali-le=livre-a-fatima
+  - 214
+---
+gloss   : est alle ali avec fatima a la maison
+text    : ذهبَ عليٌ مع فاطمةٍ إلى ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-indirects
+  - objet1-syntagme-prepositionnel
+  - objet2-syntagme-prepositionnel
+  - est=alle-ali-avec-fatima-a-la=maison
+  - 215
+---
+gloss   : a la maison est alle ali avec fatima 
+text    : إلى ال منزلِ ذهبَ عليٌ مع فاطمةٍ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-indirects
+  - objet1-syntagme-prepositionnel
+  - objet2-syntagme-prepositionnel
+  - a-la=maison-est=alle-ali-avec-fatima 
+  - 216
+---
+gloss   : avec fatima est alle ali a la maison
+text    : مع فاطمةٍ ذهبَ عليٌ  إلى ال منزلِ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-indirects
+  - objet1-syntagme-prepositionnel
+  - objet2-syntagme-prepositionnel
+  - avec-fatima-est=alle-ali-a-la=maison
+  - 217
+---
+gloss   : est alle a la maison avec fatima ali
+text    : ذهبَ إلى ال منزلِ مع فاطمةٍ  عليٌ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-indirects
+  - objet1-syntagme-prepositionnel
+  - objet2-syntagme-prepositionnel
+  - est=alle-a-la=maison-avec-fatima-ali
+  - 218
+---
+gloss   : a la maison avec fatima est alle ali
+text    : إلى ال منزلِ مع فاطمةٍ ذهبَ عليٌ
+axiom   : sv
+expected: 1
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-indirects
+  - objet1-syntagme-prepositionnel
+  - objet2-syntagme-prepositionnel
+  - a-la=maison-avec-fatima-est=alle-ali
+  - 219
+---
+gloss   : a fatima lui a donne ali a fatima 
+text    : إلى فاطمةٍ أعطَى هُ عليٌ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-indirects
+  - objet1-syntagme-prepositionnel
+  - objet2-syntagme-prepositionnel
+  - a-fatima-lui=a=donne-ali-a-fatima
+  - 220
+---
+gloss   : a fatima lui a donne ali a fatima 
+text    : إلى فاطمةٍ أعطَى هَا عليٌ إلى فاطمةٍ
+axiom   : sv
+expected: 0
+tags:
+  - ditransitif
+  - sujet-nom-propre
+  - deux-objets-indirects
+  - objet1-syntagme-prepositionnel
+  - objet2-syntagme-prepositionnel
+  - a-fatima-lui=a=donne-ali-a-fatima
+  - 221
+---
+gloss   : le garçon qui dort à la maison aime la lecture
+text    : ال ولدَ اَلّذي ينامُ في ال منزلِ يحبُ ال قراءةَ
+axiom   : sv
+expected: 0
+tags    :
+  - transitif
+  - enchâssement 
+  - sujet-syntagme-subordonné
+  - objet-nom-commun
+  - le=garçon-qui-dort-a-la=maison-aime-la=lecture
+  - 222
+---
+gloss   : le garçon qui dort aime fatima
+text    : ال ولدُ اَلّذي ينامُ يحبُ ال قراءةَ
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - enchâssement
+  - sujet-syntagme-subordonné
+  - objet-nom-commun
+  - le=garçon-qui-dort-aime-fatima
+  - 223
+---
+gloss   : le garçon qui dort à la maison aime la lecture
+text    : ال ولدُ اَلّذي ينامُ في ال منزلِ يحبُ ال قراءةَ
+axiom   : sv
+expected: 2
+tags    :
+  - transitif
+  - enchâssement
+  - sujet-syntagme-subordonné
+  - complement-circonstontiel
+  - objet-nom-commun
+  - le=garçon-qui-dort-a-la=maison-aime-la=lecture
+  - 224
+---
+gloss   : le garçon dort à la maison d ali qui aime fatima
+text    : نامَ ال ولدُ في منزلِ عليٍ اَلّذي يحبُ فاطمةً
+axiom   : sv
+expected: 1
+tags    :
+  - transitif
+  - enchâssement
+  - sujet-nom-commun
+  - complement-circonstontiel-lieu-syntagme-subordonné
+  - le=garçon-dort-a-maison-ali-qui-aime-fatima
+  - 225
+---
+gloss   : le garçon qui aime fatima est rentré en étant heureux
+text    : عادَ ال ولدُ اَلّذي يحبُ فاطمةً و هو مسرورٌ 
+axiom   : sv
+expected: 4
+tags    :
+  - transitif
+  - enchâssement
+  - sujet-nom-commun-syntagme-subordonné
+  - complement-état
+  - dependance-croisée
+  - est=rentré-le=garçon-qui-aime-fatima-en-étant-heureux
+  - 226
+---
+gloss   : ali et son ami sont rentres a la maison en souriant
+text    : عادَ عليٌ و صديقُ هُ و هو مسرورٌ
+axiom   : sv
+expected: 7
+tags:
+  - transitif
+  - sujet-nom-propre
+  - complement-syntagme-conjontif
+  - complement-état
+  - dependance-croisée
+  - est=rentre-ali-et-son=ami-a-la=maison-et-il=est-souriant
+  - 227
+---
+gloss   : ali s est encormis heureux 
+text    : نامَ عليٌ و هو مسرورٌ
+axiom   : sv
+expected: 3
+tags:
+  - transitif
+  - sujet-nom-propre
+  - complement-syntagme-prepositionnel-adjectif
+  - dort-ali=et-il=est-heureux
+  - 228
+---
+gloss   : ali s est encormis heureux 
+text    : و هو مسرورٌ نامَ عليٌ
+axiom   : sv
+expected: 1
+tags:
+  - transitif
+  - sujet-nom-propre
+  - complement-syntagme-prepositionnel-adjectif
+  - et-il=est-heureux-dort-ali
+  - 229
+---
+gloss   : que t'es grand  
+text    : مَا أكبرَ كَ  
+axiom   : pn
+expected: 1
+tags    :
+  - exclamative
+  - semi-propositionnel
+  - comparatif
+  - que-t=es=grand
+  - 230
+---
+gloss   : eh mon ami 
+text    : يَا  صديق يِ    
+axiom   : sn
+expected: 1
+tags    :
+  - appel
+  - annexion
+  - eh-mon=ami
+  - 231
+---
+gloss   : eh ahmed 
+text    : يَا أحمدُ    
+axiom   : sn
+expected: 1
+tags    :
+  - appel
+  - annexion
+  - eh-ahmed
+  - 232
+---
+gloss   : il est allé dormir
+text    : ذهبَ ينامُ
+axiom   : sv
+expected: 1
+tags    :
+  - intransitif
+  - sujet-ellipse
+  - deux-verbes
+  - il=est=allé-dormir
+  - 233

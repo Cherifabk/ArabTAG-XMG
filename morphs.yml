@@ -1,0 +1,2425 @@
+%Cherifa Ben Khelil : cherifa.bk@gmail.com
+
+- عليٌ
+- علي
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- علياً
+- علي
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- عليٍ
+- علي
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- فاطمةٌ
+- فاطمة
+- pos: sn
+  cas: nom
+  num: sg
+  gen: f
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- فاطمةً
+- فاطمة
+- pos: sn
+  cas: acc
+  num: sg
+  gen: f
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- فاطمةٍ
+- فاطمة
+- pos: sn
+  cas: gen
+  num: sg
+  gen: f
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- يحبُ
+- أَحَبَّ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- تحبُ
+- أَحَبَّ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- ينامُ 
+- نَامَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- ينامونَ 
+- نَامَ
+- pos: v
+  pers: 12
+  num: plr
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- تنامُ
+- نَامَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- نامَ 
+- نَامَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- نامتْ
+- نَامَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- كتابَ
+- كتابٌ
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- كتابِ
+- كتابٌ
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- كتابًا
+- كتابٌ
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- كتابٌ
+- كتابٌ
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- كتبٌ
+- كتابٌ
+- pos: sn
+  cas: nom
+  num: plr
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- كتبُ
+- كتابٌ
+- pos: sn
+  cas: nom
+  num: plr
+  gen: f
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- كتابٍ
+- كتابٌ
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  p: p_e
+  def: 0
+---
+- كتابُ
+- كتابٌ
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- أعطَى
+- أَعْطَى
+- pos: v
+  pers: 4
+  num: sg
+  gen: m 
+  voix: act
+  mode: ind
+  aspect: acco
+  oclit: o_0
+  oclit: o_0
+---
+- أعطتْ
+- أَعْطَى
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act 
+  mode: ind
+  aspect: acco
+  oclit: o_0
+---
+- إلى
+- إِلَى
+- pos: p  
+---
+- إلي
+- إِلَى
+- pos: p  
+---
+- أصفرُ
+- أصفر
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- أصفرَ
+- أصفر
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- صفراءُ
+- أصفر
+- pos: adj
+  cas: nom
+  num: sg
+  gen: f
+  def: 0
+---
+- صفراءَ
+- أصفر
+- pos: adj
+  cas: acc
+  num: sg
+  gen: f
+  def: 0
+---
+- أصفرٌ
+- أصفر
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- أصفرًا
+- أصفر
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- صفراءٌ
+- أصفر
+- pos: adj
+  cas: nom
+  num: sg
+  gen: f
+  def: 0
+---
+- صفراءً
+- أصفر
+- pos: adj
+  cas: acc
+  num: sg
+  gen: f
+  def: 0
+---
+- كثيرًا
+- كثيرا
+- pos: adv
+---
+- هل
+- هل
+- pos: inter
+  pint: i_a
+---
+- لماذا
+- لماذا
+- pos: inter
+  pint: i_e
+---
+- أين
+- أين
+- pos: inter
+  pint: i_e
+---
+- متى
+- متى
+- pos: inter
+  pint: i_e
+  p: p_e
+---
+- ماذا
+- ماذا
+- pos: inter
+  pint: i_e
+---
+- لمَ
+- لم
+- pos: inter
+  pint: i_e
+---
+- ما
+- ما
+- pos: inter
+  pint: i_a
+---
+- أ
+- أ 
+- pos: inter
+  pint: i_a
+---
+- كم
+- كم 
+- pos: inter
+  pint: i_a
+---
+- أيّ
+- أيّ 
+- pos: inter
+  pint: i_a
+---
+- ممّ
+- ممّ 
+- pos: inter
+  pint: i_a
+---
+- عمّ
+- عمّ 
+- pos: inter
+  pint: i_a
+---
+- في
+- فِي 
+- pos: p
+---
+- في
+- فِي 
+- pos: circ
+---
+- منزلَ
+- منزل
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- منزلُ
+- منزل
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- منزلِ
+- منزل
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- منزلاً
+- منزل
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- منزلٌ
+- منزل
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- منزلٍ
+- منزل
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- طقسَ
+- طقس
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- طقسُ
+- طقس
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- طقسِ
+- طقس
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- طقساً
+- طقس
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- طقسٌ
+- طقس
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- طقسٍ
+- طقس
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- جميلُ
+- جميل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- جميلَ
+- جميل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- جميلِ
+- جميل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: m
+  def: 0
+---
+- جميلةُ
+- جميل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: f
+  def: 0
+---
+- جميلةَ
+- جميل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: f
+  def: 0
+---
+- جميلةِ
+- جميل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: f
+  def: 0
+---
+- جميلٌ
+- جميل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- جميلاً
+- جميل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- جميلٍ
+- جميل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: m
+  def: 0
+---
+- جميلةٌ
+- جميل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: f
+  def: 0
+---
+- جميلةً
+- جميل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: f
+  def: 0
+---
+- جميلةٍ
+- جميل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: f
+  def: 0
+---
+- جميلاتٌ
+- جميل
+- pos: adj
+  cas: nom
+  num: plr
+  gen: f
+  def: 0
+---
+- جميلات
+- جميل
+- pos: adj
+  cas: acc
+  num: plr
+  gen: f
+  def: 0
+---
+- جُملاءُ
+- جميل
+- pos: adj
+  cas: nom
+  num: plr
+  gen: m
+  def: 0
+---
+- جُملاءٌ
+- جميل
+- pos: adj
+  cas: nom
+  num: plr
+  gen: m
+  def: 0
+---
+- هيَ
+- هي
+- pos: sn
+  cas: nom
+  num: sg
+  gen: f
+  p: p_e
+---
+- هذا
+- هذا
+- pos: sn
+  subcat: dem
+  num: sg
+  gen: m
+---
+- هذه
+- هذا
+- pos: sn
+  subcat: dem
+  num: sg
+  gen: f
+---
+- ثقيلُ
+- ثقيل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- ثقيلَ
+- ثقيل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- ثقيلِ
+- ثقيل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: m
+  def: 0
+---
+- ثقيلةُ
+- ثقيل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: f
+  def: 0
+---
+- ثقيلةَ
+- ثقيل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: f
+  def: 0
+---
+- ثقيلةِ
+- ثقيل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: f
+  def: 0
+---
+- ثقيلٌ
+- ثقيل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- ثقيلاً
+- ثقيل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- ثقيلٍ
+- ثقيل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: m
+  def: 0
+---
+- ثقيلةٌ
+- ثقيل
+- pos: adj
+  cas: nom
+  num: sg
+  gen: f
+  def: 0
+---
+- ثقيلةً
+- ثقيل
+- pos: adj
+  cas: acc
+  num: sg
+  gen: f
+  def: 0
+---
+- ثقيلةٍ
+- ثقيل
+- pos: adj
+  cas: gen
+  num: sg
+  gen: f
+  def: 0
+---
+- أمام
+- أمام
+- pos: circ
+  def: 0
+---
+- جدًّا
+- جدّا
+- pos: adv
+---
+- أمام
+- أمام
+- pos: adv
+  def: 0
+---
+- قلمَ
+- قلم
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قلمُ
+- قلم
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قلمِ
+- قلم
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قلمًا
+- قلم
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قلمٌ
+- قلم
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قلمٍ
+- قلم
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- أو
+- أو
+- pos: proc_c
+---
+- و
+- و 
+- pos: proc
+---
+- اَلّذي
+- الّذي 
+- pos: subor
+  num: sg
+  gen: m
+---
+- اَلّذان
+- الّذي 
+- pos: subor
+  num: dl
+  gen: m
+---
+- اَلّذين
+- الّذي 
+- pos: subor
+  num: plr
+  gen: m
+---
+- اَلّتي
+- الّتي 
+- pos: subor
+  num: sg
+  gen: f
+---
+- اَلّتان
+- الّتي 
+- pos: subor
+  num: dl
+  gen: f
+---
+- اَلّاتي
+- الّتي 
+- pos: subor
+  num: plr
+  gen: f
+---
+- قراءةَ
+- قراءة
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قراءةُ
+- قراءة
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قراءةِ
+- قراءة
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قراءةً
+- قراءة
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قراءةٌ
+- قراءة
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- قراءةٍ
+- قراءة
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- من
+- من 
+- pos: subor_p
+---
+- ما
+- ما 
+- pos: subor_p
+---
+- نائمًا
+- نَامَ 
+- pos: pactif 
+---
+- راكبًا
+- ركب 
+- pos: pactif 
+---
+- نائمًا
+- نَامَ 
+- pos: adj 
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- نائمًا
+- نَامَ 
+- pos: mushtaq
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- مُحِب 
+- أَحَبَّ 
+- pos: ppassif
+  gen: m
+---
+- مكتوبٌ 
+- كَتَبَ 
+- pos: ppassif
+  gen: m
+---
+- مترووكةَ 
+- ترك 
+- pos: ppassif
+  gen: f
+---
+- أكبرُ 
+- كبر  
+- pos: comp 
+---
+- أكبرَ 
+- كبر  
+- pos: comp 
+---
+- كبيرُ
+- كبر 
+- pos: qual 
+---
+- كِبَرُ 
+- كبر  
+- pos: nverbal 
+---
+- سنًّا
+- سنّ
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- سّنِ
+- سنّ
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- كلُّ
+- كلّ
+- pos: sn
+  cas: nom
+  num: sg
+  npro: 0
+  gen: m
+---
+- كلَّ
+- كلّ
+- pos: sn
+  cas: acc
+  num: sg
+  npro: 0
+  gen: m
+---
+- كلِّ
+- كلّ
+- pos: sn
+  cas: gen
+  num: sg
+  npro: 0
+  gen: m
+---
+- صديقُ
+- صديق
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- صديق
+- صديق
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- صديقِ
+- صديق
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- أولادُ
+- ولد
+- pos: sn
+  cas: nom
+  num: plr
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- أولادٌ
+- ولد
+- pos: sn
+  cas: nom
+  num: plr
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- ولدُ
+- ولد
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- ولدٌ
+- ولد
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- ولدَ
+- ولد
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- ولدًا
+- ولد
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- ولدِ
+- ولد
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- ولدٍ
+- ولد
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- أُعطيَ
+- أَعْطَى
+- pos: v
+  pers: 4
+  num: sg
+  gen: m 
+  voix: pas
+  mode: ind
+  aspect: acco
+  oclit: o_0
+---
+- نِيمَ
+- نَامَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m 
+  voix: pas
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- ؟
+- ؟ 
+- pos: pinter 
+---
+- يحبَ 
+- أَحَبَّ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: sub
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- ينامَ 
+- نَامَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: sub
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- يعطِي 
+- أَعْطَى
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  oclit: o_0
+---
+- يعطِي 
+- أَعْطَى
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: sub
+  aspect: inacco
+  oclit: o_0
+---
+- لنْ
+- لن 
+- pos: proc_v
+  mode: sub
+---
+- لا
+- لا 
+- pos: proc_v
+  mode: imp
+---
+- لا
+- لا 
+- pos: proc_v
+  mode: apoc
+---
+- لا
+- لا 
+- pos: proc_v
+  mode: sub
+---
+- ينمْ 
+- نَامَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: apoc
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- لمْ
+- لم 
+- pos: proc_v
+  mode: apoc
+---
+- سوف
+- سوف 
+- pos: proc_v
+  mode: ind
+---
+- سَ
+- س 
+- pos: proc_v
+  mode: ind
+---
+- كُتبَ
+- كَتَبَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m 
+  voix: pas
+  mode: ind
+  aspect: acco
+  oclit: o_0
+---
+- يَكونَ
+- كَانَ
+- pos: v_e
+  pers: 4
+  num: sg
+  gen: m
+  mode: sub  
+  hum: h_1
+  anime: a_1
+---
+- يَكنْ
+- كَانَ
+- pos: v_e
+  pers: 4
+  num: sg
+  gen: m
+  mode: apoc  
+  hum: h_1
+  anime: a_1
+---
+- كنْ
+- كَانَ
+- pos: v_e
+  pers: 4
+  num: sg
+  gen: m
+  mode: imp  
+  hum: h_1
+  anime: a_1
+---
+- يَكونُوا
+- كَانَ
+- pos: v_e
+  pers: 12
+  num: plr
+  gen: m
+  mode: sub 
+  hum: h_1
+  anime: a_1
+---
+- كانَ
+- كَانَ
+- pos: v_e
+  pers: 4
+  num: sg
+  gen: m 
+  hum: h_1
+  anime: a_1
+---
+- كانتْ
+- كَانَ
+- pos: v_e
+  pers: 5
+  num: sg
+  gen: f 
+  hum: h_1
+  anime: a_1
+---
+- صارَ
+- صَارَ
+- pos: v_e
+  pers: 4
+  num: sg
+  gen: m 
+  hum: h_1
+  anime: a_1
+---
+- صارتْ
+- صَارَ
+- pos: v_e
+  pers: 5
+  num: sg
+  gen: f 
+  hum: h_1
+  anime: a_1
+---
+- إنَّ
+- إنّ
+- pos: v_c
+  pers: 4
+  num: sg
+  gen: m 
+---
+- لعلَّ
+- لعلّ
+- pos: v_c
+  pers: 4
+  num: sg
+  gen: m 
+---
+- هُ
+- هو
+- pos: enc
+  cas: nom
+  num: sg
+  gen: m
+  p: p_e
+---
+- هو
+- هو
+- pos: sn
+  subcat: pron
+  num: sg
+  gen: m
+  p: p_e
+---
+- هِ
+- هو
+- pos: enc
+  cas: gen
+  num: sg
+  gen: m
+  p: p_e
+---
+- هَا
+- هي
+- pos: enc
+  num: sg
+  gen: f
+  p: p_e
+---
+- هيَ
+- هي
+- pos: sn
+  subcat: pron
+  cas: nom
+  num: sg
+  gen: f
+  p: p_e
+---
+- هُمَا
+- هما
+- pos: enc
+  cas: acc
+  num: dl
+  gen: m
+  p: p_e
+---
+- هُمَا
+- هما
+- pos: enc
+  cas: acc
+  num: dl
+  gen: f
+  p: p_e
+---
+- هُمْ
+- هم
+- pos: enc
+  cas: acc
+  num: plr
+  gen: m
+  p: p_e
+---
+- هُنَّ
+- هن
+- pos: enc
+  num: plr
+  gen: f
+  p: p_e
+---
+- هُنَّ
+- هن
+- pos: sn
+  subcat: pron
+  num: plr
+  gen: f
+  p: p_e
+---
+- كَ
+- أنت
+- pos: enc
+  cas: acc
+  num: sg
+  gen: m
+  p: p_e
+---
+- كِ
+- أنت
+- pos: enc
+  cas: gen
+  num: sg
+  gen: f
+  p: p_e
+---
+- يِ
+- أنا
+- pos: enc
+  cas: gen
+  num: sg
+  gen: m
+  p: p_e
+---
+- تِيِ
+- أنا
+- pos: enc
+  cas: gen
+  num: sg
+  gen: f
+  p: p_e
+---
+- نَا
+- نحن
+- pos: enc
+  cas: acc
+  num: plr
+  gen: m
+  p: p_e
+---
+- كُمَا
+- أنتما
+- pos: enc
+  cas: acc
+  num: dl
+  gen: m
+  p: p_e
+---
+- كُمَا
+- أنتما
+- pos: enc
+  cas: acc
+  num: dl
+  gen: f
+---
+- كُمْ
+- أنتم
+- pos: enc
+  cas: acc
+  num: plr
+  gen: m
+---
+- كُنَّ
+- أنتن
+- pos: enc
+  cas: acc
+  num: plr
+  gen: f
+---
+- ال
+- ال 
+- pos: proc_def
+---
+- أحمدُ
+- أحمد
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- أحمدًا
+- أحمد
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- أحمدٍ
+- أحمد
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 1
+  p: p_e
+  hum: h_1
+  anime: a_1
+---
+- اِذهَبْ
+- ذَهَبَ
+- pos: v
+  pers: 3
+  num: sg
+  gen: m
+  voix: act
+  mode: imp
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- تذهَبْ
+- ذَهَبَ
+- pos: v
+  pers: 3
+  num: sg
+  gen: m
+  voix: act
+  mode: imp
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- ذهبَ
+- ذَهَبَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- ذهبتْ
+- ذَهَبَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- مريضُ
+- مريض
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- مريضَ
+- مريض
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- مريضِ
+- مريض
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_1
+  anime: a_1
+---
+- دواءُ
+- دواء
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- دواءَ
+- دواء
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- دواءِ
+- دواء
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- أقرضَ
+- أَقْرَضَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- يقرضُ
+- أَقْرَضَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- أَقرضتْ
+- أَقْرَضَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- تقرضُ
+- أَقْرَضَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- أَقرضتُ
+- أَقْرَضَ
+- pos: v
+  pers: 1
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- أَقرضتُ
+- أَقْرَضَ
+- pos: v
+  pers: 1
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- أهدَى
+- أَهْدَى
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- يهدي
+- أَهْدَى
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- أهدتْ
+- أَهْدَى
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- تهدي
+- أَهْدَى
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- أهديتُ
+- أَهْدَى
+- pos: v
+  pers: 1
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- أهديتُ
+- أَهْدَى
+- pos: v
+  pers: 1
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- باعَ
+- بَاعَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- يبيعُ
+- بَاعَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- باعتْ
+- بَاعَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- تبيعُ
+- بَاعَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- أبيعُ
+- بَاعَ
+- pos: v
+  pers: 1
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- أبيعُ
+- بَاعَ
+- pos: v
+  pers: 1
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- مالَ
+- مال
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- مالُ 
+- مال
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- مالِ
+- مال
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- مالاً
+- مال
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- مالٌ
+- مال
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- مالٍ
+- مال
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_0
+---
+- مع
+- مَعَ
+ 
+- pos: p
+---
+- لِ
+- لِ
+ 
+- pos: p
+---
+- لِ
+- لِ
+ 
+- pos: proc
+---
+- ب
+- بِ
+ 
+- pos: p
+---
+- ب
+- بِ
+ 
+- pos: proc
+---
+- نبحَ 
+- نبح
+- pos: v
+  pers: 4
+  num: sg
+  gen: m 
+  voix: act
+  mode: ind
+  aspect: acco
+  oclit: o_0
+---
+- كلبَ
+- كلب
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_1
+---
+- كلبًا
+- كلب
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_1
+---
+- كلبُ 
+- كلب
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_1
+---
+- كلبٌ 
+- كلب
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_1
+---
+- كلبِ
+- كلب
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_1
+---
+- كلبٍ
+- كلب
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  def: 0
+  hum: h_0
+  anime: a_1
+---
+- هِرِّ
+- هرّ
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_1
+---
+- هِرُّ
+- هرّ
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_1
+---
+- هِرَّ
+- هرّ
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_1
+---
+- خَوْفِ
+- خوف
+- pos: sn
+  cas: gen
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_0
+---
+- خَوْفُ
+- خوف
+- pos: sn
+  cas: nom
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_0
+---
+- خَوْفَ
+- خوف
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_0
+---
+- عَلَى
+- على 
+- pos: p
+---
+- مِن
+- مِن 
+- pos: p
+---
+- مسرورٌ
+- مسرور
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- مسرورًا
+- مسرور
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- مسرورةٌ
+- مسرور
+- pos: adj
+  cas: nom
+  num: sg
+  gen: f
+  def: 0
+---
+- مسرورةً
+- مسرور
+- pos: adj
+  cas: acc
+  num: sg
+  gen: f
+  def: 0
+---
+- مسرورًا
+- مسرور
+- pos: mushtaq
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- فرحًا
+- فرح
+- pos: mushtaq
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- عادَ 
+- عَادَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- عادَتْ
+- عَادَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: acco
+  p: p_e
+  oclit: o_0
+---
+- يَبتسِمُ
+- ابتسمَ
+- pos: v
+  pers: 4
+  num: sg
+  gen: m
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- تَبتسِمُ
+- ابتسمَ
+- pos: v
+  pers: 5
+  num: sg
+  gen: f
+  voix: act
+  mode: ind
+  aspect: inacco
+  p: p_e
+  oclit: o_0
+---
+- صغيرِ
+- صغير
+- pos: adj
+  cas: gen
+  num: sg
+  gen: m
+  def: 0
+---
+- صغيرٍ
+- صغير
+- pos: adj
+  cas: gen
+  num: sg
+  gen: m
+  def: 0
+---
+- صغيرُ
+- صغير
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- صغيرٌ
+- صغير
+- pos: adj
+  cas: nom
+  num: sg
+  gen: m
+  def: 0
+---
+- صغيرَ
+- صغير
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- صغيرً
+- صغير
+- pos: adj
+  cas: acc
+  num: sg
+  gen: m
+  def: 0
+---
+- أكلَ 
+- أكل
+- pos: v
+  pers: 4
+  num: sg
+  gen: m 
+  voix: act
+  mode: ind
+  aspect: acco
+  oclit: o_0
+---
+- طعامَ
+- طعام
+- pos: sn
+  cas: acc
+  num: sg
+  gen: m
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_0
+---
+- درّاجةَ
+- درّاجة
+- pos: sn
+  cas: acc
+  num: sg
+  gen: f
+  npro: 0
+  p: p_e
+  hum: h_0
+  anime: a_0
+---
+- مَا
+- مَا
+- pos: exc
+---
+- يَا
+- يَا
+- pos: app
